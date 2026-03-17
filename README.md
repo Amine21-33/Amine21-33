@@ -8,10 +8,8 @@ I'm a passionate Junior Web Developer who is currently learning and building ski
 
 🔭 Working on: My personal portfolio website and small web projects
 
-🌍 Languages: Arabic, English, German (learning)
-🌍 Languages: Arabic, English, Tamazight, French, German (learning)Expand commentComment on line R11Code has comments. Press enter to view.
+🌍 Languages: Arabic, English, Tamazight, French, German (learning)
 
-📫 How to reach me: your-email@example.com
 📫 How to reach me: eljidamine21@gmail.com
 
 ⚡ Fun fact: I dream of becoming a programmer in Germany
